@@ -1,3 +1,6 @@
 #+STARTUP: overview
 
 This is a readme file!
+
+* Header 1
+* Header 2
