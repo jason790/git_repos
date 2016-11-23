@@ -1,0 +1,100 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with <open> and enter text in its buffer.
+
+
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+asdf
+asdf asdf
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+
+ 
+#+BEGIN_SRC html
+	<!DOCTYPE>
+
+
+#+END_SRC
+pp;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with <open> and enter text in its buffer.
+
+
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+asdf
+asdf asdf
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+https://github.com/fniessen/orgmk.git
+
+ 
+#+BEGIN_SRC html
+	<!DOCTYPE>
+
+
+#+END_SRC
+
+OldWorld are the new OldWorld  and again the OldWorld  plus OldWorld .
+
+NewCharacter
+in between
+NewWords
+...
+NewWords
+...
+NewWords
+
+#+BEGIN_SRC python
+	import time
+	print("Hello, today's date is %s" % time.ctime())
+	print('Two plus two is')
+	return 2 + 2
+#+END_SRC
+
+OldWorld are the new OldWorld  and again the OldWorld  plus OldWorld .
+
+NewCharacter
+in between
+NewWords
+...
+NewWords
+...
+NewWords
+JJJJJJ
+#+BEGIN_SRC python
+	import time
+	print("Hello, today's date is %s" % time.ctime())
+	print('Two plus two is')
+	return 20 + 2
+#+END_SRC
+
+#+RESULTS:
+: 22
+#+BEGIN_SRC python
+import time
+print("Hello, today's date is %s" % time.ctime())
+print('Two plus two is')
+return 2 + 2
+#+END_SRC
+
+
+#+BEGIN_SRC python
+import time
+print("Hello, today's date is %s" % time.ctime())
+print('Two plus two is')
+return 2 + 2
+#+END_SRC
+D_SRC
+
+#+RESULTS:
+: 22
+D_SRC
+
+#+RESULTS:
+: 22D_SRC
+
+#+RESULTS:
+: 22
